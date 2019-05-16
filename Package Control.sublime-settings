@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"http://packagecontrol.cn/channel_v3.json",
+		// "http://cst.stu.126.net/u/json/cms/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"Emmet",
+		"HTML5",
+		"Package Control",
+		"Terminal"
+	]
+}
