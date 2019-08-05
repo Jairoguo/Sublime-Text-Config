@@ -2,8 +2,7 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"http://packagecontrol.cn/channel_v3.json",
-		// "http://cst.stu.126.net/u/json/cms/channel_v3.json"
+		"http://packagecontrol.cn/channel_v3.json"
 	],
 	"in_process_packages":
 	[
@@ -11,10 +10,16 @@
 	"installed_packages":
 	[
 		"ChineseLocalizations",
+		"Color Highlight",
 		"ConvertToUTF8",
+		"CSS3",
 		"Emmet",
 		"HTML5",
 		"Package Control",
-		"Terminal"
+		"Python 3",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Terminal",
+		"Terminus"
 	]
 }
